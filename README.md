@@ -1,0 +1,90 @@
+# ILLIT – little monster
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+뭔가 좀 이상해
+I don’t know what it is
+내 맘속 수백 개의
+세포들도 쉴 틈 없이
+쉿, 뭔가 우릴
+쫓아오고 있어 들리니?
+그냥 둘 순 없는걸
+We’re creating a monster
+거대해 못된 stress
+커다란 그릇에 마구 넣어
+Let’s eat all the monsters
+전부 집어삼켜 당장
+해치울래 한입 가득
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+Anymore
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+한입에 다 먹어 버릴 거야
+달콤쌉싸름 처음 맛본 괴물의 맛
+이 슬픔들은 찐득해 달라붙어 막
+자 유인해 오는 길목에 덫을 놓고
+let’s count
+쉿, 지금이야 잡아 꽉!
+We’re creating a monster
+포획해 못된 stress
+커다란 그릇에 마구 섞어
+Let’s eat all the monsters
+전부 집어삼켜 당장
+해치울래 한입 가득
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+Anymore
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+한입에 다 먹어 버릴 거야
+뭔가 좀 이상해
+I don’t know what it is
+내 맘속 수백 개의
+세포들도 쉴 틈 없이
+자꾸만 괴롭혀 절대 용서 못 해
+가만두지 않겠어
+We’re creating a monster
+꿀꺽 삼킬수록 불안은
+사라져 녹아내려
+Let’s eat all the monsters
+잔뜩 배부르게 먹고
+나면 곧 지나갈 거야
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+Anymore
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+I don’t wanna know
+한입에 다 먹어 버릴 거야
+```
