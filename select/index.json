@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "little monster",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-01-13T23:27:53.988406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Monster",
+      "artist": "Royal Blood",
+      "has_synced": true,
+      "path": "select/01_Little_Monster_Royal_Blood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mommy's Little Monster",
+      "artist": "Social Distortion",
+      "has_synced": true,
+      "path": "select/02_Mommy's_Little_Monster_Social_Distortion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mommy’s Little Monster",
+      "artist": "Social Distortion",
+      "has_synced": true,
+      "path": "select/03_Mommy’s_Little_Monster_Social_Distortion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Monster",
+      "artist": "Royal Blood",
+      "has_synced": true,
+      "path": "select/04_Little_Monster_Royal_Blood.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Monster Babies",
+      "artist": "Kimya Dawson",
+      "has_synced": true,
+      "path": "select/05_Little_Monster_Babies_Kimya_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mommy's Little Monster",
+      "artist": "Midnite String Quartet",
+      "has_synced": false,
+      "path": "select/06_Mommy's_Little_Monster_Midnite_String_Quartet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mommy's Little Monster - Live",
+      "artist": "Social Distortion",
+      "has_synced": true,
+      "path": "select/07_Mommy's_Little_Monster_-_Live_Social_Distortion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mommy's Little Monster",
+      "artist": "Social Distortion",
+      "has_synced": true,
+      "path": "select/08_Mommy's_Little_Monster_Social_Distortion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "05 Mommy\"S Little Monster",
+      "artist": "Social Distortion",
+      "has_synced": true,
+      "path": "select/09_05_Mommy_S_Little_Monster_Social_Distortion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Little Monster Blend",
+      "artist": "Madchild",
+      "has_synced": false,
+      "path": "select/10_Little_Monster_Blend_Madchild.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Monster - Original",
+      "artist": "Tristam",
+      "has_synced": true,
+      "path": "select/11_Little_Monster_-_Original_Tristam.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Monster",
+      "artist": "Tristam",
+      "has_synced": true,
+      "path": "select/12_Little_Monster_Tristam.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Little Monster (FLAC Version)",
+      "artist": "Royal Blood",
+      "has_synced": true,
+      "path": "select/13_Little_Monster_(FLAC_Version)_Royal_Blood.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "little monster",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_little_monster_ILLIT.txt"
+    }
+  ]
+}
